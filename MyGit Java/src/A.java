@@ -5,6 +5,7 @@ public class A {
 		System.out.println("Hello A");
 		System.out.println("Hello A2");
 		new B().sayHello();
+		new C().Hello();
 
 	}
 
